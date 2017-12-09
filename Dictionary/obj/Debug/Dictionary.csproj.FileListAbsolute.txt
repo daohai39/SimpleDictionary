@@ -1,0 +1,10 @@
+C:\Users\ThinkPad\source\repos\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\ThinkPad\source\repos\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\ThinkPad\source\repos\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\ThinkPad\source\repos\Dictionary\Dictionary\bin\Debug\Castle.Core.dll
+C:\Users\ThinkPad\source\repos\Dictionary\Dictionary\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ThinkPad\source\repos\Dictionary\Dictionary\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ThinkPad\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\ThinkPad\source\repos\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
